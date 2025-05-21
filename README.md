@@ -1,10 +1,8 @@
 ## 👋 Hi, I'm Ignacio Gomez 
 
-🔭 I'm a fourth-year computer science student with a strong interest in backend development, distributed systems, AI and cybersecurity. 
+🔭 I'm a fourth-year computer science student with a strong interest in distributed systems, ML and cybersecurity. 
 
 ⚡ I'm enthusiastic about learning and working with different aspects of computer science, with a particular focus on building reliable and secure systems. Currently exploring opportunities to apply and develop my skills in these areas.
-
-🌱 I’m currently learning Go
 
 <!--
 **NachoGz/nachogz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
